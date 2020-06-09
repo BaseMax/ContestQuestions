@@ -1,3 +1,9 @@
+# Challenge every day a question
+
+What's purpose: everyday solve one or more question.
+
+Follow this way with me to solving questions, it will enhance your problem-solving ability.
+
 # Contest Questions
 
 Archive of my programs code for contest questions.
