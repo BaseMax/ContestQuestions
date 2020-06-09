@@ -2,6 +2,10 @@
 
 What's purpose: everyday solve one or more question.
 
+Yesterday i did talk with one of friend, who has **Gold medal in Computer olympiad**.
+
+It's what i begin after conversation...
+
 Follow this way with me to solving questions, it will enhance your problem-solving ability.
 
 # Contest Questions
