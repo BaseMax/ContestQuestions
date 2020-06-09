@@ -279,6 +279,13 @@ In the second sample Vasya added a single word "WUB" between all neighbouring wo
 
 ## Level of H
 
+
+-------------
+
+## Logs
+
+- **2020/06/09**: Solve 7 questions
+
 ---------
 
 # Max Base
