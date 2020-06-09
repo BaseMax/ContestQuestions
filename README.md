@@ -12,6 +12,8 @@ Follow this way with me to solving questions, it will enhance your problem-solvi
 
 Archive of my programs code for contest questions.
 
+## Level of A
+
 <details><summary>A. Watermelon</summary>
 <p>
 
@@ -274,6 +276,8 @@ In the second sample Vasya added a single word "WUB" between all neighbouring wo
 
 </p>
 </details>
+
+## Level of H
 
 ---------
 
