@@ -152,6 +152,30 @@ aBAcAba
 <details><summary>A. Football</summary>
 <p>
 
+-	time limit per test: 2 seconds
+-	memory limit per test: 256 megabytes
+-	input: standard input
+-	output: standard output
+ 
+Petya loves football very much. One day, as he was watching a football match, he was writing the players' current positions on a piece of paper. To simplify the situation he depicted it as a string consisting of zeroes and ones. A zero corresponds to players of one team; a one corresponds to players of another team. If there are at least 7 players of some team standing one after another, then the situation is considered dangerous. For example, the situation 00100110111111101 is dangerous and 11110111011101 is not. You are given the current situation. Determine whether it is dangerous or not.
+ 
+# Input
+The first input line contains a non-empty string consisting of characters "0" and "1", which represents players. The length of the string does not exceed 100 characters. There's at least one player from each team present on the field.
+ 
+# Output
+Print "YES" if the situation is dangerous. Otherwise, print "NO".
+ 
+# Examples
+## Input
+001001
+## Output
+NO
+ 
+## Input
+1000000001
+## Output
+YES
+
 </p>
 </details>
 
@@ -159,6 +183,43 @@ aBAcAba
 
 <details><summary>A. Boy or Girl</summary>
 <p>
+
+-	time limit per test: 1 second
+-	memory limit per test: 256 megabytes
+-	input: standard input
+-	output: standard output
+ 
+Those days, many boys use beautiful girls' photos as avatars in forums. So it is pretty hard to tell the gender of a user at the first glance. Last year, our hero went to a forum and had a nice chat with a beauty (he thought so). After that they talked very often and eventually they became a couple in the network.
+ 
+But yesterday, he came to see "her" in the real world and found out "she" is actually a very strong man! Our hero is very sad and he is too tired to love again now. So he came up with a way to recognize users' genders by their user names.
+ 
+This is his method: if the number of distinct characters in one's user name is odd, then he is a male, otherwise she is a female. You are given the string that denotes the user name, please help our hero to determine the gender of this user by his method.
+Input
+ 
+The first line contains a non-empty string, that contains only lowercase English letters — the user name. This string contains at most 100 letters.
+Output
+ 
+If it is a female by our hero's method, print "CHAT WITH HER!" (without the quotes), otherwise, print "IGNORE HIM!" (without the quotes).
+ 
+# Examples
+ 
+## Input
+wjmzbmr
+## Output
+CHAT WITH HER!
+ 
+## Input
+xiaodao
+## Output
+IGNORE HIM!
+ 
+## Input
+sevenkplus
+## Output
+CHAT WITH HER!
+ 
+# Note
+For the first example. There are 6 distinct characters in "wjmzbmr". These characters are: "w", "j", "m", "z", "b", "r". So wjmzbmr is a female and you should print "CHAT WITH HER!".
 
 </p>
 </details>
