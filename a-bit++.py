@@ -48,7 +48,7 @@ X++
 count=int(input())
 x=0
 for i in range(0, count):
-	text=input().lower()
+	text=input().lower().strip()
 	if text == "++x":
 		x+=1
 	elif text == "x++":
